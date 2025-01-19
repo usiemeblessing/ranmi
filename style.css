@@ -1,0 +1,23 @@
+body::before {
+	display: block;
+	content: "";
+	height: 60px;
+}
+
+@media (min-width: 768px) {
+	.news-input {
+		width: 50%;
+	}
+}
+
+.testimonial-img {
+	border-radius: 50%;
+}
+
+.social-media-icon {
+	margin-right: 30px;
+}
+
+.footer {
+	padding-bottom: 0;
+}
