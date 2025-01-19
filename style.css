@@ -10,6 +10,16 @@ body::before {
 	}
 }
 
+.nav-item {
+	margin-right: 50px;
+}
+
+/* .nav-item:hover {
+	text-decoration: underline;
+	background-color: green;
+	border-radius: 2px;
+} */
+
 .testimonial-img {
 	border-radius: 50%;
 }
